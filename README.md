@@ -1,20 +1,16 @@
-# 👋 Olá, eu sou a Emanoelli Valentina
+# Emanoelli Valentina
 
-🚀 Desenvolvedora em formação apaixonada por transformar ideias em código  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Curitiba - PR  
-
----
-
-## 💡 Sobre mim
-
-Atualmente estou construindo uma base sólida em desenvolvimento Fullstack, focando em lógica, organização de código e evolução constante.
-
-Gosto de entender como as coisas funcionam por trás das telas — desde a lógica no backend até a estrutura visual no frontend.
-
-Estou em evolução contínua, desenvolvendo projetos práticos para fortalecer minhas habilidades e me preparar para os desafios do mercado real.
+Estudante de Análise e Desenvolvimento de Sistemas  
+Focada em desenvolvimento Fullstack com base sólida em Java  
+Curitiba - PR  
 
 ---
+
+## Sobre
+
+Em constante evolução na área de tecnologia, construindo fundamentos sólidos em lógica de programação, organização de código e desenvolvimento de aplicações completas.
+
+Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em backend e frontend, com foco em crescimento consistente e preparação para desafios reais do mercado.
 
 ---
 
@@ -46,23 +42,24 @@ Estou em evolução contínua, desenvolvendo projetos práticos para fortalecer 
 </p>
 
 ---
-## 🚀 Atualmente estudando
 
-- Java 17 e Programação Orientada a Objetos
-- Estruturação de projetos
-- Spring Boot (iniciação)
-- Angular (iniciação)
-- Boas práticas de desenvolvimento
+## Em evolução
 
----
-
-## 📂 Projetos em destaque
-
-🔹 CadastroPro (Java 17) – Sistema de cadastro com persistência em arquivo  
-🔹 Em desenvolvimento: API REST com Spring Boot  
+- Java 17 e Programação Orientada a Objetos  
+- Estruturação de projetos backend  
+- Angular (fundamentos)  
+- Spring Boot (iniciação)  
+- Boas práticas de desenvolvimento  
 
 ---
 
-## 🎯 Objetivo
+## Projetos
 
-Construir uma carreira sólida em desenvolvimento de software, evoluindo constantemente e participando de projetos que gerem impacto real.
+- CadastroPro - Aplicação de console em Java 17 com persistência em arquivo  
+- Em desenvolvimento: API REST com Spring Boot  
+
+---
+
+## Objetivo
+
+Construir uma carreira sólida em desenvolvimento de software, evoluindo tecnicamente de forma consistente e participando de projetos que gerem impacto real.
