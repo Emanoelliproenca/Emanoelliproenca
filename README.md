@@ -19,18 +19,28 @@ Estou em evolução contínua, desenvolvendo projetos práticos para fortalecer 
 ## 🛠 Tecnologias que utilizo
 
 ### 💻 Linguagens & Desenvolvimento
-![Java](https://img.shields.io/badge/Java-17-orange)
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![Angular](https://img.shields.io/badge/Angular-red)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+</p>
 
 ### 🗄 Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-gray)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
 ### 🐧 Ambiente & Ferramentas
-![Linux](https://img.shields.io/badge/Linux-black)
-![Git](https://img.shields.io/badge/Git-red)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 
