@@ -1,16 +1,16 @@
 # Emanoelli Valentina
 
 Estudante de Análise e Desenvolvimento de Sistemas  
-Focada em desenvolvimento Fullstack com base sólida em Java  
+Desenvolvedora em formação com foco em Java e aplicações Fullstack  
 Curitiba - PR  
 
 ---
 
 ## Sobre
 
-Em constante evolução na área de tecnologia, construindo fundamentos sólidos em lógica de programação, organização de código e desenvolvimento de aplicações completas.
+Movida por tecnologia e aprendizado contínuo, estou construindo minha trajetória na área de desenvolvimento de software com foco em fundamentos sólidos e evolução consistente.
 
-Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em backend e frontend, com foco em crescimento consistente e preparação para desafios reais do mercado.
+Tenho interesse em compreender o funcionamento das aplicações de ponta a ponta — desde a lógica no backend até a experiência no frontend — buscando sempre clareza na estrutura do código e boas práticas de desenvolvimento.
 
 ---
 
@@ -43,23 +43,23 @@ Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em bac
 
 ---
 
-## Em evolução
+## Em desenvolvimento
 
 - Java 17 e Programação Orientada a Objetos  
-- Estruturação de projetos backend  
-- Angular (fundamentos)  
-- Spring Boot (iniciação)  
-- Boas práticas de desenvolvimento  
+- Estruturação de aplicações backend  
+- Fundamentos de Angular  
+- Introdução ao Spring Boot  
+- Práticas de versionamento e organização de projetos  
 
 ---
 
 ## Projetos
 
-- CadastroPro - Aplicação de console em Java 17 com persistência em arquivo  
-- Em desenvolvimento: API REST com Spring Boot  
+- CadastroPro – Aplicação em Java 17 para gerenciamento de usuários com persistência em arquivo  
+- API REST (em construção) utilizando Spring Boot  
 
 ---
 
 ## Objetivo
 
-Construir uma carreira sólida em desenvolvimento de software, evoluindo tecnicamente de forma consistente e participando de projetos que gerem impacto real.
+Atuar profissionalmente na área de desenvolvimento, ampliando minhas competências técnicas e contribuindo em projetos que unam qualidade, organização e impacto real.
