@@ -1,65 +1,53 @@
-# Emanoelli Valentina
+## Emanoelli Valentina
 
-Estudante de Análise e Desenvolvimento de Sistemas  
-Desenvolvedora em formação com foco em Java e aplicações Fullstack  
+Desenvolvedora Fullstack focada em aplicações modernas, interfaces organizadas e sistemas com propósito real.
+
+Java • Spring Boot • Angular • PostgreSQL
 Curitiba - PR  
 
 ---
 
 ## Sobre
 
-Movida por tecnologia e aprendizado contínuo, estou construindo minha trajetória na área de desenvolvimento de software com foco em fundamentos sólidos e evolução consistente.
+Atuo atualmente com suporte técnico e operações, experiência que me aproximou da estrutura real dos sistemas, análise de falhas e necessidades dos usuários.
 
-Tenho interesse em compreender o funcionamento das aplicações de ponta a ponta — desde a lógica no backend até a experiência no frontend — buscando sempre clareza na estrutura do código e boas práticas de desenvolvimento.
+Hoje direciono minha carreira para o desenvolvimento fullstack, criando aplicações com foco em organização, clareza visual e experiência do usuário.
+
+Tenho interesse especial em frontend moderno, arquitetura de aplicações e construção de produtos que resolvam problemas reais de forma intuitiva.
 
 ---
 
 ## Tecnologias
 
-### Linguagens & Desenvolvimento
+### Backend
+Java • Spring Boot • REST APIs
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-</p>
+### Frontend
+Angular • TypeScript • HTML • CSS
 
 ### Banco de Dados
+PostgreSQL • MySQL
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</p>
-
-### Ambiente & Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</p>
-
----
-
-## Em desenvolvimento
-
-- Java 17 e Programação Orientada a Objetos  
-- Estruturação de aplicações backend  
-- Fundamentos de Angular  
-- Introdução ao Spring Boot  
-- Práticas de versionamento e organização de projetos  
-
----
+### Ferramentas
+Git • GitHub • Linux • IntelliJ IDEA • VS Code
 
 ## Projetos
 
-- CadastroPro – Aplicação em Java 17 para gerenciamento de usuários com persistência em arquivo  
-- API REST (em construção) utilizando Spring Boot  
+### Atlas
+Plataforma operacional desenvolvida para centralização de documentação técnica, organização de serviços e consultas operacionais internas.
+
+Stack:
+Java • Spring Boot • Angular • PostgreSQL
 
 ---
 
-## Objetivo
+### Biblioteca Aurora
+Projeto extensionista voltado ao incentivo à leitura e democratização do acesso à educação através de uma biblioteca digital acessível.
 
-Atuar profissionalmente na área de desenvolvimento, ampliando minhas competências técnicas e contribuindo em projetos que unam qualidade, organização e impacto real.
+Stack:
+HTML • CSS • JavaScript
+
+---
+
+### Portfólio
+Aplicação frontend desenvolvida com foco em identidade visual, experiência do usuário e apresentação profissional de projetos.
